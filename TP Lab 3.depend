@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1794315824 source:c:\users\admin\documents\c\tp lab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LibStackQueue.c"
+
+1794315905 c:\users\admin\documents\c\tp lab 3\libstackqueue.c
+
