@@ -159,15 +159,12 @@ bool isPrefix(Queue *Q1, Queue *Q2){
     return Prefix;
 }
 
-
-
-
-
 int main(){
     int result,k;
     TypeElm value_Occ,val;
     Queue Q,Q2;
 
+    system("Color_F0");
     CreateQueue(&Q);
     printf("\nThe elements of the Queue :\n");
     DisplayQueue(&Q);

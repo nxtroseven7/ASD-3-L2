@@ -76,7 +76,6 @@ void Dequeue(Queue *Q, TypeElm *x)
  free(V);
 }
 
-///Function isQEmpty
 int isQEmpty(Queue Q)
 {if (Q.Head==NULL) return 1;
  else return 0;
