@@ -21,15 +21,6 @@ The subject is in `Lab-3.pdf`.
 
 `TP Lab 3.cbp` is the Code::Blocks project file.
 
-## Compiling
-
-Each Lab file has its own main, so compile them one at a time:
-
-```
-gcc Lab2-1.c -o lab2-1
-./lab2-1
-```
-
-On Windows PowerShell the second line is `.\lab2-1.exe`.
+## Additional Info
 
 If a Lab 3 file doesn't compile on its own, put `LibStackQueue.c` in the same folder.
